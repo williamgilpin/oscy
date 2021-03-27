@@ -1,3 +1,5 @@
 ## oscy
 
-Simulation of coupled oscillators in Python.
+Coupled oscillator simulations in Python.
+
+##
